@@ -9,4 +9,6 @@ The reference dataset was collected in the Chicken Creek catchment in Lusatia, G
 
 ![](time_series_plot.png)
 
+# Loss plot
 
+![](Loss_plot.png)
